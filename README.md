@@ -6,8 +6,12 @@
 
 <p align="center">
   <p align="center"> This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
-
+  
 </p>
+
+<p align="center">
+https://promptslab.github.io
+  </p>
  <h4 align="center">
   
   ```
@@ -72,7 +76,7 @@
   - [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/abs/2104.08786) [2021] (Arxiv) 
   - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) [2021] (Arxiv) 
   - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350) [2021] (Arxiv) 
-  - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) [2021] (Arxiv) 
+  - [Prefix-Tuning: Optimizing Continuous prompts for Generation](https://arxiv.org/abs/2101.00190) [2021] (Arxiv) 
   
   
  
@@ -178,6 +182,7 @@
 | **Haystack** | Open source NLP framework to interact with your data using LLMs and Transformers. | [[Github]](https://github.com/deepset-ai/haystack) |
 | **LangChainx** | Building applications with LLMs through composability | [[Github]](https://github.com/hwchase17/langchain) |
 | **Neurolink** | Multi-provider AI agent framework unifying 12+ providers with workflow orchestration and edge-first deployment. Production-ready with streaming, tool calling, Redis caching, and enterprise features. | [[Github]](https://github.com/juspay/neurolink) |
+| **PraisonAI** | Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows, and built-in memory. Features self-reflection and fastest agent instantiation. | [[Github]](https://github.com/MervinPraison/PraisonAI) |
 | **OpenPrompt** | An Open-Source Framework for Prompt-learning | [[Github]](https://github.com/thunlp/OpenPrompt) |
 | **Prompt Engine** | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs). | [[Github]](https://github.com/microsoft/prompt-engine) |
 | **PromptInject** | PromptInject is a framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. | [[Github]](https://github.com/agencyenterprise/PromptInject) |
@@ -190,6 +195,7 @@
 | **LastMile AI** | Notebook-like playground for interacting with LLMs across different modalities (text, speech, audio, image) | [[Tool]](https://lastmileai.dev/) |
 | **XpulsAI** | Effortlessly build scalable AI Apps. AutoOps platform for AI & ML | [[Tool]](https://xpuls.ai/) |
 | **Agenta** | Agenta is an open-source LLM developer platform with the tools for prompt management, evaluation, human feedback, and deployment all in one place.  | [[Github]](https://github.com/agenta-ai/agenta) |
+| **promptfoo** | Test and evaluate LLM applications. Compare prompts and models, red team with adversarial attacks, and integrate into CI/CD. | [[Github]](https://github.com/promptfoo/promptfoo) |
 | **Promptotype** | Develop, test, and monitor your LLM { structured } tasks | [[Tool]](https://www.promptotype.io) |
 | **AI Agent System Prompts Library** | A curated collection of system prompts and tool definitions from production AI coding agents (Claude Code, Gemini CLI, Cline, Aider, Roo Code, Zed, Codex CLI) | [[Github]](https://github.com/tallesborges/agentic-system-prompts) |
 
@@ -275,6 +281,7 @@
     - [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain)
     - [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101)
     - [Prompt Engineering Guide by SudalaiRajkumar](https://github.com/SudalaiRajkumar/Talks_Webinars/blob/master/Slides/PromptEngineering_20230208.pdf)
+    - [Vibe Engineering book by Tomasz Lelek & Artur Skowronski](https://www.manning.com/books/vibe-engineering)
 
   - **Beginner's Guide to Generative Language Models**
 
